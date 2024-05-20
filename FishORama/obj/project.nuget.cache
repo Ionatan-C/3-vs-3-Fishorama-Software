@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "idrNcDVX2g5gfNqA20mhh+Bmu409o20KtEpk1TmpNMZvc3UluKOlzVmjO3Kv7dAt6QHiSzmC2exXwKorvpFZBQ==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub Projects\\A.Software Developer Projects\\3 vs 3 C# Fishorama Software\\FishORama\\FishORama.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yonny\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\yonny\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}

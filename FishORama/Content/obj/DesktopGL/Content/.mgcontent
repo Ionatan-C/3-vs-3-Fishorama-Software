@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/GitHub Projects/A.Software Developer Projects/3 vs 3 C# Fishorama Software/FishORama/Content/AnglerFish_Lit.png</File>
+    <File>D:/GitHub Projects/A.Software Developer Projects/3 vs 3 C# Fishorama Software/FishORama/Content/AnglerFish_Unlit.png</File>
+    <File>D:/GitHub Projects/A.Software Developer Projects/3 vs 3 C# Fishorama Software/FishORama/Content/AquariumBackground.png</File>
+    <File>D:/GitHub Projects/A.Software Developer Projects/3 vs 3 C# Fishorama Software/FishORama/Content/Background.png</File>
+    <File>D:/GitHub Projects/A.Software Developer Projects/3 vs 3 C# Fishorama Software/FishORama/Content/BlueFish.png</File>
+    <File>D:/GitHub Projects/A.Software Developer Projects/3 vs 3 C# Fishorama Software/FishORama/Content/bubble.png</File>
+    <File>D:/GitHub Projects/A.Software Developer Projects/3 vs 3 C# Fishorama Software/FishORama/Content/ChickenLeg.png</File>
+    <File>D:/GitHub Projects/A.Software Developer Projects/3 vs 3 C# Fishorama Software/FishORama/Content/DRUM_Blue.png</File>
+    <File>D:/GitHub Projects/A.Software Developer Projects/3 vs 3 C# Fishorama Software/FishORama/Content/DRUM_Red.png</File>
+    <File>D:/GitHub Projects/A.Software Developer Projects/3 vs 3 C# Fishorama Software/FishORama/Content/Foreground_Rocks.png</File>
+    <File>D:/GitHub Projects/A.Software Developer Projects/3 vs 3 C# Fishorama Software/FishORama/Content/ForegroundSand.png</File>
+    <File>D:/GitHub Projects/A.Software Developer Projects/3 vs 3 C# Fishorama Software/FishORama/Content/Midground_Rocks.png</File>
+    <File>D:/GitHub Projects/A.Software Developer Projects/3 vs 3 C# Fishorama Software/FishORama/Content/OrangeFish.png</File>
+    <File>D:/GitHub Projects/A.Software Developer Projects/3 vs 3 C# Fishorama Software/FishORama/Content/Piranha1.png</File>
+    <File>D:/GitHub Projects/A.Software Developer Projects/3 vs 3 C# Fishorama Software/FishORama/Content/Piranha2.png</File>
+    <File>D:/GitHub Projects/A.Software Developer Projects/3 vs 3 C# Fishorama Software/FishORama/Content/Seahorse.png</File>
+    <File>D:/GitHub Projects/A.Software Developer Projects/3 vs 3 C# Fishorama Software/FishORama/Content/Urchin.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

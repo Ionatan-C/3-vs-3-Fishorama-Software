@@ -1,0 +1,115 @@
+C:\TEMP WORK\COMP1447\2122\Code\FishORama21 DEMOS\FishORama-main\FishORamaEngineLibrary\bin\Debug\FishORamaEngineLibrary.dll
+C:\TEMP WORK\COMP1447\2122\Code\FishORama21 DEMOS\FishORama-main\FishORamaEngineLibrary\bin\Debug\FishORamaEngineLibrary.pdb
+C:\TEMP WORK\COMP1447\2122\Code\FishORama21 DEMOS\FishORama-main\FishORamaEngineLibrary\bin\Debug\MonoGame.Framework.dll
+C:\TEMP WORK\COMP1447\2122\Code\FishORama21 DEMOS\FishORama-main\FishORamaEngineLibrary\bin\Debug\SharpDX.MediaFoundation.dll
+C:\TEMP WORK\COMP1447\2122\Code\FishORama21 DEMOS\FishORama-main\FishORamaEngineLibrary\bin\Debug\SharpDX.dll
+C:\TEMP WORK\COMP1447\2122\Code\FishORama21 DEMOS\FishORama-main\FishORamaEngineLibrary\bin\Debug\SharpDX.XAudio2.dll
+C:\TEMP WORK\COMP1447\2122\Code\FishORama21 DEMOS\FishORama-main\FishORamaEngineLibrary\bin\Debug\SharpDX.DXGI.dll
+C:\TEMP WORK\COMP1447\2122\Code\FishORama21 DEMOS\FishORama-main\FishORamaEngineLibrary\bin\Debug\SharpDX.Direct3D11.dll
+C:\TEMP WORK\COMP1447\2122\Code\FishORama21 DEMOS\FishORama-main\FishORamaEngineLibrary\bin\Debug\SharpDX.Direct2D1.dll
+C:\TEMP WORK\COMP1447\2122\Code\FishORama21 DEMOS\FishORama-main\FishORamaEngineLibrary\bin\Debug\SharpDX.XInput.dll
+C:\TEMP WORK\COMP1447\2122\Code\FishORama21 DEMOS\FishORama-main\FishORamaEngineLibrary\bin\Debug\MonoGame.Framework.xml
+C:\TEMP WORK\COMP1447\2122\Code\FishORama21 DEMOS\FishORama-main\FishORamaEngineLibrary\bin\Debug\SharpDX.MediaFoundation.xml
+C:\TEMP WORK\COMP1447\2122\Code\FishORama21 DEMOS\FishORama-main\FishORamaEngineLibrary\bin\Debug\SharpDX.xml
+C:\TEMP WORK\COMP1447\2122\Code\FishORama21 DEMOS\FishORama-main\FishORamaEngineLibrary\bin\Debug\SharpDX.XAudio2.xml
+C:\TEMP WORK\COMP1447\2122\Code\FishORama21 DEMOS\FishORama-main\FishORamaEngineLibrary\bin\Debug\SharpDX.DXGI.xml
+C:\TEMP WORK\COMP1447\2122\Code\FishORama21 DEMOS\FishORama-main\FishORamaEngineLibrary\bin\Debug\SharpDX.Direct3D11.xml
+C:\TEMP WORK\COMP1447\2122\Code\FishORama21 DEMOS\FishORama-main\FishORamaEngineLibrary\bin\Debug\SharpDX.Direct2D1.xml
+C:\TEMP WORK\COMP1447\2122\Code\FishORama21 DEMOS\FishORama-main\FishORamaEngineLibrary\bin\Debug\SharpDX.XInput.xml
+C:\TEMP WORK\COMP1447\2122\Code\FishORama21 DEMOS\FishORama-main\FishORamaEngineLibrary\obj\Debug\FishORamaEngineLibrary.csproj.AssemblyReference.cache
+C:\TEMP WORK\COMP1447\2122\Code\FishORama21 DEMOS\FishORama-main\FishORamaEngineLibrary\obj\Debug\FishORamaEngineLibrary.csproj.CoreCompileInputs.cache
+C:\TEMP WORK\COMP1447\2122\Code\FishORama21 DEMOS\FishORama-main\FishORamaEngineLibrary\obj\Debug\FishORamaEngineLibrary.csproj.CopyComplete
+C:\TEMP WORK\COMP1447\2122\Code\FishORama21 DEMOS\FishORama-main\FishORamaEngineLibrary\obj\Debug\FishORamaEngineLibrary.dll
+C:\TEMP WORK\COMP1447\2122\Code\FishORama21 DEMOS\FishORama-main\FishORamaEngineLibrary\obj\Debug\FishORamaEngineLibrary.pdb
+D:\A.University\OOP (Object Oriented Programming)\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\FishORamaEngineLibrary.dll
+D:\A.University\OOP (Object Oriented Programming)\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\FishORamaEngineLibrary.pdb
+D:\A.University\OOP (Object Oriented Programming)\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\MonoGame.Framework.dll
+D:\A.University\OOP (Object Oriented Programming)\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.MediaFoundation.dll
+D:\A.University\OOP (Object Oriented Programming)\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.dll
+D:\A.University\OOP (Object Oriented Programming)\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.XAudio2.dll
+D:\A.University\OOP (Object Oriented Programming)\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.DXGI.dll
+D:\A.University\OOP (Object Oriented Programming)\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.Direct3D11.dll
+D:\A.University\OOP (Object Oriented Programming)\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.Direct2D1.dll
+D:\A.University\OOP (Object Oriented Programming)\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.XInput.dll
+D:\A.University\OOP (Object Oriented Programming)\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\MonoGame.Framework.xml
+D:\A.University\OOP (Object Oriented Programming)\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.MediaFoundation.xml
+D:\A.University\OOP (Object Oriented Programming)\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.xml
+D:\A.University\OOP (Object Oriented Programming)\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.XAudio2.xml
+D:\A.University\OOP (Object Oriented Programming)\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.DXGI.xml
+D:\A.University\OOP (Object Oriented Programming)\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.Direct3D11.xml
+D:\A.University\OOP (Object Oriented Programming)\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.Direct2D1.xml
+D:\A.University\OOP (Object Oriented Programming)\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.XInput.xml
+D:\A.University\OOP (Object Oriented Programming)\A3 Brief\FishORama21\FishORamaEngineLibrary\obj\Debug\FishORamaEngineLibrary.csproj.AssemblyReference.cache
+D:\A.University\OOP (Object Oriented Programming)\A3 Brief\FishORama21\FishORamaEngineLibrary\obj\Debug\FishORamaEngineLibrary.csproj.CoreCompileInputs.cache
+D:\A.University\OOP (Object Oriented Programming)\A3 Brief\FishORama21\FishORamaEngineLibrary\obj\Debug\FishORamaEngineLibrary.csproj.CopyComplete
+D:\A.University\OOP (Object Oriented Programming)\A3 Brief\FishORama21\FishORamaEngineLibrary\obj\Debug\FishORamaEngineLibrary.dll
+D:\A.University\OOP (Object Oriented Programming)\A3 Brief\FishORama21\FishORamaEngineLibrary\obj\Debug\FishORamaEngineLibrary.pdb
+C:\Users\cegi1_21\OneDrive - University of Worcester\A.Object Oriented Programming\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\FishORamaEngineLibrary.dll
+C:\Users\cegi1_21\OneDrive - University of Worcester\A.Object Oriented Programming\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\FishORamaEngineLibrary.pdb
+C:\Users\cegi1_21\OneDrive - University of Worcester\A.Object Oriented Programming\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\MonoGame.Framework.dll
+C:\Users\cegi1_21\OneDrive - University of Worcester\A.Object Oriented Programming\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\cegi1_21\OneDrive - University of Worcester\A.Object Oriented Programming\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.dll
+C:\Users\cegi1_21\OneDrive - University of Worcester\A.Object Oriented Programming\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\cegi1_21\OneDrive - University of Worcester\A.Object Oriented Programming\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.DXGI.dll
+C:\Users\cegi1_21\OneDrive - University of Worcester\A.Object Oriented Programming\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\cegi1_21\OneDrive - University of Worcester\A.Object Oriented Programming\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\cegi1_21\OneDrive - University of Worcester\A.Object Oriented Programming\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.XInput.dll
+C:\Users\cegi1_21\OneDrive - University of Worcester\A.Object Oriented Programming\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\MonoGame.Framework.xml
+C:\Users\cegi1_21\OneDrive - University of Worcester\A.Object Oriented Programming\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\cegi1_21\OneDrive - University of Worcester\A.Object Oriented Programming\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.xml
+C:\Users\cegi1_21\OneDrive - University of Worcester\A.Object Oriented Programming\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\cegi1_21\OneDrive - University of Worcester\A.Object Oriented Programming\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.DXGI.xml
+C:\Users\cegi1_21\OneDrive - University of Worcester\A.Object Oriented Programming\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\cegi1_21\OneDrive - University of Worcester\A.Object Oriented Programming\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\cegi1_21\OneDrive - University of Worcester\A.Object Oriented Programming\A3 Brief\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.XInput.xml
+C:\Users\cegi1_21\OneDrive - University of Worcester\A.Object Oriented Programming\A3 Brief\FishORama21\FishORamaEngineLibrary\obj\Debug\FishORamaEngineLibrary.csproj.AssemblyReference.cache
+C:\Users\cegi1_21\OneDrive - University of Worcester\A.Object Oriented Programming\A3 Brief\FishORama21\FishORamaEngineLibrary\obj\Debug\FishORamaEngineLibrary.csproj.CoreCompileInputs.cache
+C:\Users\cegi1_21\OneDrive - University of Worcester\A.Object Oriented Programming\A3 Brief\FishORama21\FishORamaEngineLibrary\obj\Debug\FishORamaEngineLibrary.csproj.CopyComplete
+C:\Users\cegi1_21\OneDrive - University of Worcester\A.Object Oriented Programming\A3 Brief\FishORama21\FishORamaEngineLibrary\obj\Debug\FishORamaEngineLibrary.dll
+C:\Users\cegi1_21\OneDrive - University of Worcester\A.Object Oriented Programming\A3 Brief\FishORama21\FishORamaEngineLibrary\obj\Debug\FishORamaEngineLibrary.pdb
+D:\A.University\A.First Year\A.Object Oriented Programming\A3 Brief added\FishORama21\FishORamaEngineLibrary\bin\Debug\FishORamaEngineLibrary.dll
+D:\A.University\A.First Year\A.Object Oriented Programming\A3 Brief added\FishORama21\FishORamaEngineLibrary\bin\Debug\FishORamaEngineLibrary.pdb
+D:\A.University\A.First Year\A.Object Oriented Programming\A3 Brief added\FishORama21\FishORamaEngineLibrary\bin\Debug\MonoGame.Framework.dll
+D:\A.University\A.First Year\A.Object Oriented Programming\A3 Brief added\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.MediaFoundation.dll
+D:\A.University\A.First Year\A.Object Oriented Programming\A3 Brief added\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.dll
+D:\A.University\A.First Year\A.Object Oriented Programming\A3 Brief added\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.XAudio2.dll
+D:\A.University\A.First Year\A.Object Oriented Programming\A3 Brief added\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.DXGI.dll
+D:\A.University\A.First Year\A.Object Oriented Programming\A3 Brief added\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.Direct3D11.dll
+D:\A.University\A.First Year\A.Object Oriented Programming\A3 Brief added\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.Direct2D1.dll
+D:\A.University\A.First Year\A.Object Oriented Programming\A3 Brief added\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.XInput.dll
+D:\A.University\A.First Year\A.Object Oriented Programming\A3 Brief added\FishORama21\FishORamaEngineLibrary\bin\Debug\MonoGame.Framework.xml
+D:\A.University\A.First Year\A.Object Oriented Programming\A3 Brief added\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.MediaFoundation.xml
+D:\A.University\A.First Year\A.Object Oriented Programming\A3 Brief added\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.xml
+D:\A.University\A.First Year\A.Object Oriented Programming\A3 Brief added\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.XAudio2.xml
+D:\A.University\A.First Year\A.Object Oriented Programming\A3 Brief added\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.DXGI.xml
+D:\A.University\A.First Year\A.Object Oriented Programming\A3 Brief added\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.Direct3D11.xml
+D:\A.University\A.First Year\A.Object Oriented Programming\A3 Brief added\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.Direct2D1.xml
+D:\A.University\A.First Year\A.Object Oriented Programming\A3 Brief added\FishORama21\FishORamaEngineLibrary\bin\Debug\SharpDX.XInput.xml
+D:\A.University\A.First Year\A.Object Oriented Programming\A3 Brief added\FishORama21\FishORamaEngineLibrary\obj\Debug\FishORamaEngineLibrary.csproj.AssemblyReference.cache
+D:\A.University\A.First Year\A.Object Oriented Programming\A3 Brief added\FishORama21\FishORamaEngineLibrary\obj\Debug\FishORamaEngineLibrary.csproj.CoreCompileInputs.cache
+D:\A.University\A.First Year\A.Object Oriented Programming\A3 Brief added\FishORama21\FishORamaEngineLibrary\obj\Debug\FishORam.14650E84.Up2Date
+D:\A.University\A.First Year\A.Object Oriented Programming\A3 Brief added\FishORama21\FishORamaEngineLibrary\obj\Debug\FishORamaEngineLibrary.dll
+D:\A.University\A.First Year\A.Object Oriented Programming\A3 Brief added\FishORama21\FishORamaEngineLibrary\obj\Debug\FishORamaEngineLibrary.pdb
+D:\GitHub Projects\A.Software Developer Projects\3 vs 3 C# Fishorama Software\FishORamaEngineLibrary\bin\Debug\FishORamaEngineLibrary.dll
+D:\GitHub Projects\A.Software Developer Projects\3 vs 3 C# Fishorama Software\FishORamaEngineLibrary\bin\Debug\FishORamaEngineLibrary.pdb
+D:\GitHub Projects\A.Software Developer Projects\3 vs 3 C# Fishorama Software\FishORamaEngineLibrary\bin\Debug\MonoGame.Framework.dll
+D:\GitHub Projects\A.Software Developer Projects\3 vs 3 C# Fishorama Software\FishORamaEngineLibrary\bin\Debug\SharpDX.MediaFoundation.dll
+D:\GitHub Projects\A.Software Developer Projects\3 vs 3 C# Fishorama Software\FishORamaEngineLibrary\bin\Debug\SharpDX.dll
+D:\GitHub Projects\A.Software Developer Projects\3 vs 3 C# Fishorama Software\FishORamaEngineLibrary\bin\Debug\SharpDX.XAudio2.dll
+D:\GitHub Projects\A.Software Developer Projects\3 vs 3 C# Fishorama Software\FishORamaEngineLibrary\bin\Debug\SharpDX.DXGI.dll
+D:\GitHub Projects\A.Software Developer Projects\3 vs 3 C# Fishorama Software\FishORamaEngineLibrary\bin\Debug\SharpDX.Direct3D11.dll
+D:\GitHub Projects\A.Software Developer Projects\3 vs 3 C# Fishorama Software\FishORamaEngineLibrary\bin\Debug\SharpDX.Direct2D1.dll
+D:\GitHub Projects\A.Software Developer Projects\3 vs 3 C# Fishorama Software\FishORamaEngineLibrary\bin\Debug\SharpDX.XInput.dll
+D:\GitHub Projects\A.Software Developer Projects\3 vs 3 C# Fishorama Software\FishORamaEngineLibrary\bin\Debug\MonoGame.Framework.xml
+D:\GitHub Projects\A.Software Developer Projects\3 vs 3 C# Fishorama Software\FishORamaEngineLibrary\bin\Debug\SharpDX.MediaFoundation.xml
+D:\GitHub Projects\A.Software Developer Projects\3 vs 3 C# Fishorama Software\FishORamaEngineLibrary\bin\Debug\SharpDX.xml
+D:\GitHub Projects\A.Software Developer Projects\3 vs 3 C# Fishorama Software\FishORamaEngineLibrary\bin\Debug\SharpDX.XAudio2.xml
+D:\GitHub Projects\A.Software Developer Projects\3 vs 3 C# Fishorama Software\FishORamaEngineLibrary\bin\Debug\SharpDX.DXGI.xml
+D:\GitHub Projects\A.Software Developer Projects\3 vs 3 C# Fishorama Software\FishORamaEngineLibrary\bin\Debug\SharpDX.Direct3D11.xml
+D:\GitHub Projects\A.Software Developer Projects\3 vs 3 C# Fishorama Software\FishORamaEngineLibrary\bin\Debug\SharpDX.Direct2D1.xml
+D:\GitHub Projects\A.Software Developer Projects\3 vs 3 C# Fishorama Software\FishORamaEngineLibrary\bin\Debug\SharpDX.XInput.xml
+D:\GitHub Projects\A.Software Developer Projects\3 vs 3 C# Fishorama Software\FishORamaEngineLibrary\obj\Debug\FishORamaEngineLibrary.csproj.AssemblyReference.cache
+D:\GitHub Projects\A.Software Developer Projects\3 vs 3 C# Fishorama Software\FishORamaEngineLibrary\obj\Debug\FishORamaEngineLibrary.csproj.CoreCompileInputs.cache
+D:\GitHub Projects\A.Software Developer Projects\3 vs 3 C# Fishorama Software\FishORamaEngineLibrary\obj\Debug\FishORam.14650E84.Up2Date
+D:\GitHub Projects\A.Software Developer Projects\3 vs 3 C# Fishorama Software\FishORamaEngineLibrary\obj\Debug\FishORamaEngineLibrary.dll
+D:\GitHub Projects\A.Software Developer Projects\3 vs 3 C# Fishorama Software\FishORamaEngineLibrary\obj\Debug\FishORamaEngineLibrary.pdb
